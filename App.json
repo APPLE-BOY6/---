@@ -8,8 +8,8 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://i.imgur.com/jE8eQsP.jpeg",
-  "repository": "https://github.com/Toputech/ALONE-MD-V1",
+  "logo": "https://files.catbox.moe/x54ibb.jpg",
+  "repository": "https://github.com/APPLE-BOY6/---.git",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -55,7 +55,7 @@
     },
     "BOT_NAME": {
       "description": "Give a name for your bot",
-      "value": "ᗩᒪOᑎE ᗰᗪ",
+      "value": "🅼🅰🅳🆄🆂🅰🅽🅺-🅼🅳",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -80,7 +80,7 @@
     },
     "OWNER_NAME": {
       "description": "Your name",
-      "value": "Toputech",
+      "value": "𝙳𝙰𝙼𝙸𝚃𝙷 𝙷𝙴𝚁𝙰𝚃𝙷",
       "required": false
     },
     "AUTO_READ_MESSAGES": {
@@ -90,7 +90,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255673750170')",
-      "value": "255673750170",
+      "value": "94743387798,94724290516",
       "required": false
     },
     "WARN_COUNT": {
